@@ -14,7 +14,7 @@ import android.widget.Toast;
 
 import java.text.DecimalFormat;
 
-public class Activity_Recibo extends AppCompatActivity {
+public class Activity_Recibo extends AppCompatActivity  {
 
 
     private Button btnGenerar;
