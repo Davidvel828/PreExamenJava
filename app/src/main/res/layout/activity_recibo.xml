@@ -238,7 +238,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/btnCalcular"
-        android:backgroundTint="#071B44"
+        android:backgroundTint="#3F51B5"
         android:textColor="#FFFFFF"
 
         android:text="CALCULAR"
@@ -252,7 +252,7 @@
         android:layout_height="wrap_content"
         android:id="@+id/btnLimpiar"
         android:text="LIMPIAR"
-        android:backgroundTint="#071B44"
+        android:backgroundTint="#9C27B0"
         android:textColor="#FFFFFF"
 
         app:layout_constraintTop_toBottomOf="@id/btnCalcular">
@@ -265,7 +265,7 @@
         android:layout_height="wrap_content"
         android:id="@+id/btnRegresar"
         android:text="REGRESAR"
-        android:backgroundTint="#071B44"
+        android:backgroundTint="#E91E63"
         android:textColor="#FFFFFF"
 
         app:layout_constraintTop_toBottomOf="@id/btnLimpiar">

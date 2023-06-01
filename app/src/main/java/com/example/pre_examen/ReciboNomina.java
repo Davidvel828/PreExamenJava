@@ -2,7 +2,7 @@ package com.example.pre_examen;
 
 import java.text.DecimalFormat;
 
-public class ReciboNomina  {
+public class ReciboNomina   {
 
 
 
