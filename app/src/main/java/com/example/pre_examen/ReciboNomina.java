@@ -2,7 +2,7 @@ package com.example.pre_examen;
 
 import java.text.DecimalFormat;
 
-public class ReciboNomina {
+public class ReciboNomina  {
 
 
 
@@ -22,7 +22,7 @@ public class ReciboNomina {
         this.horasExtras = horasExtras;
         this.puesto = puesto;
         this.impuestoPor = impuestoPor;
-    }
+     }
 
     public double getHorasTrabajadas() {
         return horasTrabajadas;
